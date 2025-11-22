@@ -1,0 +1,5 @@
+{
+  "name": "CryoBolt Calc (低温螺栓计算)",
+  "description": "A professional engineering tool for calculating bolt preload forces in low-temperature conditions based on Patent CN 105574341 B. (基于专利 CN 105574341 B 的低温螺栓预紧力专业计算工具)",
+  "requestFramePermissions": []
+}
